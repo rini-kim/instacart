@@ -1,1 +1,1 @@
-# instacart-model
+# Predictive Buying Model for Instacart
